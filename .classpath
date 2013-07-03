@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="var" path="ANTLR_HOME/antlr.jar" sourcepath="ANTLR_HOME/antlrsrc.zip"/>
+	<classpathentry kind="lib" path="lib/forms.jar" sourcepath="lib/forms-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/tonimaister/Documents/ETSII/II/2º%20Cuatrimestre/Workspace/TrabajoIA2/lib/forms-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/swing-layout.jar" sourcepath="lib/swing-layout-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/tonimaister/Documents/ETSII/II/2º%20Cuatrimestre/Workspace/TrabajoIA2/lib/swing-layout-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/tonimaister/Downloads/commons-lang3-3.0.1/commons-lang3-3.0.1-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/tonimaister/Downloads/commons-lang3-3.0.1/commons-lang3-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

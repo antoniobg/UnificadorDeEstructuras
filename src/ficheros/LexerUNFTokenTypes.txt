@@ -1,0 +1,13 @@
+// $ANTLR : LexerUNF.g -> LexerUNFTokenTypes.txt$
+LexerUNF    // output token vocab name
+UNION=4
+DECLARACIONES=5
+UNIFICA="Unifica"=6
+PA=7
+IDENT=8
+ASP=9
+PC=10
+BT=11
+SL=12
+DIGITO=13
+LETRA=14

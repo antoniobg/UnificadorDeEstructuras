@@ -1,0 +1,9 @@
+// $ANTLR : ParserUNF.g -> ParserUNFTokenTypes.txt$
+ParserUNF    // output token vocab name
+UNION=4
+DECLARACIONES=5
+UNIFICA=6
+PA=7
+IDENT=8
+ASP=9
+PC=10
